@@ -1,1 +1,0 @@
-![alt class1 photo](class1.png)
