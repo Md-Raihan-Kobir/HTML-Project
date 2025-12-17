@@ -1,0 +1,59 @@
+p{
+    margin-top: 0px;
+    margin-bottom: 0px;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+.title{
+    
+    color: black;
+    font-size: 19px;
+    font-weight: bold;
+    width: 300px;
+}
+
+
+.view{
+
+    color: rgb(100, 100, 100);
+    margin-top: 6px;
+    font-size: 15px;
+}
+
+.author{
+
+    color: rgb(100, 100, 100);
+    margin-top: 20px;
+    font-size:15px;
+
+}
+
+.discription{
+
+    color: rgb(100, 100, 100);
+    margin-top: 20px;
+    font-size:15px ;
+    width: 300px;
+}
+
+
+.lastline{
+    
+    margin-top: 80px;
+    color: rgb(255, 255, 255);
+    background-color: red;
+    padding: 18px 18px;
+    margin-right: 8px;
+    margin-left: 8px;
+}
+
+.shop:hover{
+
+   text-decoration: underline;
+}
+
+.shop{
+
+    font-size: bold;
+    cursor: pointer;
+}
