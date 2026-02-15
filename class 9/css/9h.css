@@ -1,0 +1,44 @@
+#division{
+    
+text-align: center;
+}
+
+#google-logo{
+    margin: auto;
+    width: 350px;
+    display: block;
+    margin-top: 10px;
+    margin-bottom: 10px;
+}
+
+#text{
+    font-size: 30px;
+    width: 650px;
+   display: block;
+   margin: auto;
+   margin-top: 10px;
+   margin-bottom: 10px;
+   padding-left: 10px;
+   padding-top: 10px;
+   padding-bottom: 10px;
+   border-radius: 30px;
+   border: none;
+   box-shadow: 0 1px 6px rgba(0, 0, 0, 0.2);
+  
+
+}
+
+button{
+    margin-top: 10px;
+    font-size: 23px;
+    padding-left: 16px;
+    padding-right: 16px;
+    padding-top: 12px;
+    padding-bottom: 12px;
+    margin-right: 10px;
+    margin-left: 10px;
+    border:none;
+    border-radius: 30px;
+    cursor: pointer;
+
+}

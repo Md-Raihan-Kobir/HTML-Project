@@ -1,0 +1,51 @@
+#division{
+
+    width: 250px;
+    height: 400px;
+    box-shadow: 0 0 8px rgba(0, 0, 0, 0.3);
+    margin-left: 20px;
+}
+
+#avater{
+    width: 250px;
+    height: 250px;
+    object-fit: cover;
+}
+
+p,button{
+    margin-top: 0px;
+    margin-bottom: 0px;
+    margin-left: 8px;
+}
+
+#name{
+    margin-top: 10px;
+    font-size: 25px;
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: bold;
+    margin-left: 8px;
+
+}
+
+#mutual_friend{
+    font-size: 24px;
+    font-family: Arial, Helvetica, sans-serif;
+    color:rgb(100, 100, 100);
+    margin-top: 10px;
+
+}
+
+#butoon_addfriends{
+    background-color:rgb(24, 119, 242);
+    border: none;
+    color: white;
+    margin-top: 10px;
+    padding-left: 18px;
+    padding-right: 18px;
+    padding-top: 9px;
+    padding-bottom: 9px;
+    border-radius: 8px;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 24px;
+
+}

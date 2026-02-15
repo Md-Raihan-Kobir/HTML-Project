@@ -1,0 +1,37 @@
+#headline{
+    font-size: 26px;
+    font-family: Arial, Helvetica, sans-serif;
+    margin-bottom: 0px;
+
+}
+
+
+#location-pickup,#discription{
+    margin-top: 16px;
+    padding-top: 16px;
+    padding-bottom: 16px;
+    padding-left: 16px;
+    border-radius: 8px;
+    padding-right: 150px;
+    border: none;
+    background-color: rgb(240, 240, 240);
+    display: block;
+    margin-bottom: 0px;
+}
+
+#request-button,#Schedule-button{
+    margin-top: 30px;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    padding-left: 20px;
+    padding-right: 20px;
+    border: none;
+    background-color: black;
+    color: white;
+}
+
+#Schedule-button{
+    background-color: rgb(240, 240, 240);
+    color: black;
+    margin-left: 20px;
+}

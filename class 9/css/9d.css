@@ -1,0 +1,24 @@
+#division{
+
+    width: 450px;
+    border-color: black;
+    border-style: solid;
+    background-color: rgb(34, 34, 34);
+
+}
+
+#paragraph-0ne{
+
+    color: rgb(255, 255, 255);
+    font-size: 30px;
+    padding-left: 10px;
+    margin-bottom: 0px;
+}
+
+#paragraph-two{
+
+    color: rgb(166, 166, 166);
+    font-size: 20px;
+    margin-left: 10px;
+    width: 400px;
+}

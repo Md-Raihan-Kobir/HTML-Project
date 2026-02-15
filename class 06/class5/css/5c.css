@@ -22,7 +22,7 @@
             width: 450px;
             font-size: 25px;
         }
- button
+ .button-get
         {
             background-color: green;
             padding: 10px 18px;
@@ -30,5 +30,18 @@
             color: white;
             border-radius: 10px;
             font-size:20px;
+            cursor: pointer;
+            
 
         }
+
+.button-get:hover{
+   transition:1s;
+   background-color: red;
+}
+
+.button-get:active{
+
+    background-color: blue;
+    transition: 0.12s;
+}

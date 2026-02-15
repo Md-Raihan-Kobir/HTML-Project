@@ -1,0 +1,45 @@
+#firstName,#lastName{
+    font-size: 16px;
+    width: 120px;
+    padding-left: 8px;
+    padding-top: 8px;
+    padding-bottom: 8px;
+    border-radius: 10px;
+    border-color: rgb(200, 200, 200);
+    vertical-align: top;
+    border-style: solid;
+  
+
+}
+
+#email{
+
+    font-size: 16px;
+    width: 260px;
+    padding-left: 8px;
+    padding-top: 8px;
+    padding-bottom: 8px;
+    border-radius: 10px;
+    border-color: rgb(200, 200, 200);
+    display: block;
+    margin-top: 10px;
+    border-style: solid;
+}
+
+#signin-button{
+        font-size: 16px;
+        margin-top: 10px;
+        padding-right: 105px;
+        padding-left: 105px;
+        padding-top: 16px;
+        padding-bottom: 16px;
+        font-weight: bold;
+        background-color: rgb(29, 155, 240);
+        border:none;
+        border-radius: 10px;
+        cursor: pointer;
+
+
+}
+
+

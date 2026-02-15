@@ -1,0 +1,61 @@
+#division{
+           width: 400px;
+           box-shadow: ;
+           margin-left: 20px;
+           margin-top: 20px;
+           box-shadow: 0px 0px 50px;
+           padding-top: 16px;
+           padding-bottom: 16px;
+           padding-left: 18px;
+           border-radius: 10px;
+}
+
+
+#avater{
+
+    width: 60px;
+    height: 60px;
+    border-radius: 40px;
+    object-fit:cover;
+    vertical-align: middle;
+
+}
+
+#input-text{
+    margin-left: 10px;
+    vertical-align: middle;
+    font-size: 23px;
+    border: none;
+    width: 200px;
+}
+
+#button-tweet{
+
+    vertical-align: middle;
+    padding-left: 12px;
+    padding-right: 12px;
+    padding-top: 8px;
+    padding-bottom: 8px;
+    color:black;
+    font-weight: bold;
+    background-color: rgb(59, 123, 232);
+    border: none;
+    border-radius: 20px;
+    font-size: 15px;
+    cursor: pointer;
+}
+
+#button-tweet:hover{
+                color: white;
+                background-color:rgb(103, 153, 239) ;
+                transition: 0.2s;
+
+}
+
+#button-tweet:active{
+
+    color : rgb(0, 0, 0);
+    background-color: aqua;
+    opacity: 0.8%;
+    transition: 0.44s;
+}
