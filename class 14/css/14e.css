@@ -1,0 +1,75 @@
+body {
+  background-color: black;
+  height: 3000px;
+}
+
+.main-section {
+  background-color: white;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  position: fixed;
+  top:0;
+  right: 0;
+  left: 0;
+}
+
+.image-section {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  margin-left: 60px;
+  margin-top: 4px;
+  margin-bottom: 4px;
+}
+
+.oliver-img-section {
+  display: flex;
+  align-items: center;
+}
+
+.img-oliver {
+  width: 30px;
+  height: 30px;
+  border-radius: 15px;
+  object-fit: cover;
+}
+.cat-name-section {
+  margin-left: 6px;
+  font-family: arial;
+  font-size: 12px;
+  font-weight: 600;
+}
+
+.button-section {
+  display: flex;
+  margin-right: 40px;
+  
+}
+
+.follow-button {
+  color: white;
+  background-color: rgb(68, 68, 255);
+  border: none;
+  font-size: 12px;
+  padding-top: 4px;
+  padding-bottom: 4px;
+  padding-left: 8px;
+  padding-right: 8px;
+  margin-right: 6px;
+  border-radius: 6px;
+
+}
+
+.button-message {
+  color: black;
+  background-color: rgb(224, 224, 224);
+  border: none;
+  font-size: 12px;
+  padding-top: 4px;
+  padding-bottom: 4px;
+  padding-left: 8px;
+  padding-right: 8px;
+  margin-right: 6px;
+  border-radius: 6px;
+}

@@ -1,0 +1,14 @@
+.container {
+    display: flex;
+    
+}
+
+.section_1 {
+    background-color: lightblue;
+    width: 200px;
+}
+
+.section_2 {
+    background-color: lightpink;
+    width: 75px;
+}

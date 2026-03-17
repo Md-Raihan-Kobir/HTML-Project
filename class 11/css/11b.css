@@ -1,0 +1,17 @@
+.container {
+    display: grid;
+    grid-template-columns: 50px 1fr 75px ;
+}
+
+.container_1st {
+    background-color: antiquewhite;
+}
+
+.container_2st {
+    background-color: rgb(197, 135, 255);
+}
+
+.container_3st {
+    background-color: rgb(162, 255, 112);
+}
+

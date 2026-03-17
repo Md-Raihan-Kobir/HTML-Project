@@ -1,0 +1,60 @@
+.main_container {
+  border: 3px solid black;
+  background-color: rgb(242, 239, 239);
+    padding: 2px;
+    width: 800px;
+
+}
+
+.container_01 {
+  border: 3px solid red;
+  padding: 2px;
+}
+.container_02 {
+  border: 3px solid red;
+    padding: 2px;
+
+}
+.container_03 {
+  border: 3px solid red;
+    padding: 2px;
+
+}
+
+.img_container {
+  display: inline-block;
+  border: 3px solid blue;
+}
+.para_container {
+  display: inline-block;
+  border: 3px solid blue;
+  vertical-align: top;
+  height: 181px;
+  padding-left: 10px;
+  padding-right: 10px;
+}
+
+p {
+  font-family: sans-serif;
+  font-size: 18px;
+  font-weight: 500;
+  color: rgb(75, 75, 75);
+  padding: 0px;
+  margin: 0px;
+    border: 3px solid;
+
+ 
+}
+
+p.head_para{
+  color: rgb(0, 0, 0);
+  font-weight: 700;
+  font-size: 28px;
+  padding-bottom: 18px;
+}
+
+.para_2 {
+  padding-bottom: 10px;
+}
+
+

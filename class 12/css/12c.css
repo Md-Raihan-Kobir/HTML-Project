@@ -1,0 +1,21 @@
+.container {
+    display: flex;
+    flex-direction: row;
+    justify-content:space-between
+}
+.section_1 {
+    background-color: lightblue;
+}
+
+.section_2 {
+    background-color: lightpink;
+
+}
+.section_3 {
+    background-color: lightblue;
+   
+}
+.section_4 {
+    background-color: lightpink;
+   
+}

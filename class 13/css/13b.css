@@ -1,0 +1,36 @@
+.main_section {
+    display: flex;
+
+}
+
+.item1_section {
+    background-color: lightpink;
+    width: 100px;
+    height: 60px;
+   
+}
+
+.item2_section {
+    background-color: lightblue;
+    width: 200px;
+    display: flex;
+    flex-direction: column;
+}
+p {
+    background-color: black;
+    color:white;
+    font-size: 16px;
+    margin: 0;
+}
+
+.last_section {
+    display: flex;
+    justify-content: space-between;
+   
+}
+
+.row1_section {
+    background-color:lightblue;
+    color: black;
+    margin-top: 5px;
+}

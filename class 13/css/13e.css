@@ -1,0 +1,79 @@
+.container {
+    box-shadow: 0px 0px 5px rgba(0,0,0,0.5);
+    margin: 40px;
+    width: 500px;
+    padding-top: 6px;
+    padding-right: 20px;
+    padding-bottom: 30px;
+    
+}
+
+.main_section {
+    width: 450px;
+   margin: 0px 10px 0px 40px;
+    padding: 5px 10px 0px -30px;
+}
+
+
+.para_all_inbox {
+    color: rgb(123, 123, 123);
+    padding: 10px 10px 0px px;
+    font-family: verdana;
+    font-size: 14px;
+    font-weight: 500;
+}
+
+.details_section {
+
+    display: flex;
+    align-items: center;
+    margin-top: 20px;
+}
+
+.img-section {
+    margin-left: 16px;
+
+}
+
+.img_oliver {
+    width: 50px;
+    height: 50px;
+    border:none;
+    border-radius: 30px;
+    object-fit: cover;
+}
+
+.img_details_section {
+    margin:0;
+    width: 100%;
+    margin-left: 10px;
+
+}
+
+.chewy_Promotions_para {
+    margin:0;
+    display: flex;
+    justify-content: space-between;
+}
+
+p {
+    margin : 0;
+    font-weight: bolder;
+    font-family: sans-serif;
+    line-height: 2.5ch;
+    font-size: 15px;
+}
+
+.time_zone {
+    color: rgb(123, 123, 123);
+    font-family: verdana;
+    font-size: 14px;
+    font-weight: 500;
+}
+
+.about_oliver {
+    color: rgb(123, 123, 123);
+    font-family: verdana;
+    font-size: 15px;
+    font-weight: 500;
+}

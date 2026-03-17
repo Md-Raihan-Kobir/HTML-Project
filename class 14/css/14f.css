@@ -1,0 +1,57 @@
+body {
+  height: 3000px;
+}
+
+.image-section {
+  position:fixed;
+  top: 0;
+  left: 0;
+  bottom: 0;
+  width: 60px;
+  background-color: rgb(31, 30, 30);
+  color: white;
+  display: flex;
+  flex-direction: column;
+  padding-top: 10px;
+  padding-left: 8px;
+  row-gap: 4px;
+  
+}
+
+img {
+  width: 50px;
+  height: 50px;
+  border-radius: 25px;
+  object-fit: cover;
+}
+
+.info-section {
+  margin-left: 60px;
+  padding: 10px;
+  color: rgb(164, 163, 163);
+  background-color: rgb(85, 85, 85);
+  position: fixed;
+  top: 0;
+  bottom: 0;
+  width: 150px;
+}
+
+.info{
+  display: flex;
+  justify-content: space-between;
+  font-size: 12px;
+  font-weight: 600;
+  color: white;
+}
+
+.info-plus {
+  margin-bottom: 8px;
+  color:rgb(164, 163, 163); 
+  font-size: 18px;
+  font-width: 700;
+}
+.info-details {
+  margin-bottom: 8px;
+  color:rgb(164, 163, 163); ;
+}
+

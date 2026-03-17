@@ -1,0 +1,93 @@
+    
+    /* 2nd container  */
+
+    .main_section {
+        width: 320px;
+        display: flex;
+        margin-top: 20px;
+        margin-left: 20px;
+        
+    }
+
+    .imag_section {
+        display: inline-block;
+        display: grid;
+        align-items: center;
+    }
+
+    .discription_section {
+        width: 100%;
+       
+        align-items: center;
+        display: grid;
+    }
+
+    .button_section {
+
+            display: grid;
+            justify-content: end;
+            align-items: center;
+            width: 200px;
+           
+
+    }
+
+    
+    .oliver {
+        width: 60px;
+        height: 60px;
+        border-radius: 50px;
+        object-fit: cover;
+
+    }
+    
+    .Mimi {
+        width: 60px;
+        height: 60px;
+        border-radius: 50px;
+        object-fit: cover;
+
+    }
+
+    
+    .Rex {
+        width: 60px;
+        height: 60px;
+        border-radius: 50px;
+        object-fit: cover;
+
+    }
+
+    p {
+        margin: 0;
+        font-size: 16px;
+        font-family: sans-serif;
+        padding-left: 15px;
+        display: grid;
+        align-items: center;
+        color:rgb(131, 131, 131);
+       
+
+    }
+
+    .para_oliver {
+        
+        font-weight:600;
+        color: black;
+        font-size: 18px;
+    }
+
+    button {
+        background-color: rgb(29, 155, 240);
+        font-size: 18px;
+        font-family: sans-serif;
+        font-width: 600;
+        padding:6px 18px 6px 18px;
+        border: none;
+        border-radius: 8px;
+        color: white;
+
+    }
+
+
+

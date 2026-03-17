@@ -1,0 +1,22 @@
+.main_section {
+    display: flex;
+}
+
+.item1_section {
+    background-color: lightpink;
+    width: 100px;
+    align-items: center;
+    justify-content: center;
+    height: 80px;
+    display: flex;
+}
+
+.item2_section {
+    background-color: lightblue;
+    width: 200px;
+}
+p {
+    background-color: black;
+    color:white;
+    font-size: 28px;
+}

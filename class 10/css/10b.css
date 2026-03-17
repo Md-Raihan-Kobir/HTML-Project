@@ -1,0 +1,160 @@
+.main_container_011 {
+   
+     
+    margin-bottom: 10px;
+    padding-left: 5`px;
+}
+
+.container_011
+{
+    display: inline-block;
+    vertical-align: top;
+    height: 159px;
+    align-content: center;
+   
+   
+
+}
+
+.container_022{
+    display: inline-block;
+    height: 159px;
+    vertical-align: top;
+    width: 200px;
+  
+    align-content: center;
+    
+
+}
+
+.container_033 {
+    width: 30%;
+
+    display: inline-block;
+    height: 159px;
+    vertical-align: top;
+    align-content: center;
+    width: 200px;
+}
+
+
+p { 
+    font-size: 29px;
+    padding: 0px;
+    margin:0px;
+    color: rgb(100, 100, 100);
+    padding-left: 10px;
+    font-family: sans-serif;
+    
+}
+.oliver_image {
+  width:100px;
+  height: 100px;
+object-fit: cover;
+border-radius: 100px;
+
+}
+button {
+    font-size: 24px;
+    background-color: rgb(9, 245, 9);
+    padding: 12px 24px;
+    border: none;
+    border-radius:8px;
+    font-family: sans-serif;
+    font-weight: 600;
+    color: white;
+    margin-left: 30px;
+
+}
+
+.oliver_name {
+    color: black;
+    font-weight: 600;
+    font-family: sans-serif;
+}
+
+
+
+/* 2nd container  */
+.main_container_01 {
+   
+    border: 3px solid black;  
+    margin-bottom: 10px;
+    padding-left: 5px;
+    width: 523px;
+}
+
+.container_01
+{
+    display: inline-block;
+    vertical-align: top;
+    height: 159px;
+    align-content: center;
+    border: 3px solid yellow;
+   
+
+}
+
+.container_02{
+    display: inline-block;
+    height: 159px;
+    vertical-align: top;
+    width: 200px;
+    border: 3px solid blue;
+    align-content: center;
+    
+
+}
+
+.container_03 {
+    width: 30%;
+
+    display: inline-block;
+    height: 159px;
+    vertical-align: top;
+    align-content: center;
+    border: 3px solid aqua;
+    width: 200px;
+}
+
+
+p { 
+    font-size: 29px;
+    padding: 0px;
+    margin:0px;
+    color: rgb(100, 100, 100);
+    padding-left: 10px;
+    font-family: sans-serif;
+      
+}
+.oliver_image {
+  width:100px;
+  height: 100px;
+object-fit: cover;
+border-radius: 100px;
+
+}
+button {
+    font-size: 24px;
+    background-color: rgb(9, 245, 9);
+    padding: 12px 24px;
+    border: none;
+    border-radius:8px;
+    font-family: sans-serif;
+    font-weight: 600;
+    color: white;
+    margin-left: 30px;
+
+}
+
+.oliver_name {
+    color: black;
+    font-weight: 600;
+    font-family: sans-serif;
+}
+
+.border_text {
+    border: 3px solid red;
+}
+
+
